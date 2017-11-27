@@ -1,0 +1,22 @@
+{
+    "name": "kovsky0/mini-templater",
+    "description": "A simple helper class to process variables and alternative strings",
+    "type": "library",
+    "license": "GPL-3.0",
+    "minimum-stability": "dev",
+    "version": "1.0",
+    "require": {},
+    "authors": [
+        {
+            "name": "Daniel Wyrzykowski",
+            "homepage": "https://github.com/kovsky0"
+        },
+        {
+            "name": "Jason Davis",
+            "homepage": "https://www.codedevelopr.com"
+        }
+    ],
+    "autoload": {
+        "files": ["mini-templater.php"]
+    }
+}
